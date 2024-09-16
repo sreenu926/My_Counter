@@ -30,7 +30,7 @@
   background-color: rgb(144, 47, 235);
 }
 
-@media (max-width: 450px) {
+@media (max-width: 500px) {
   #buttonContainer {
     padding: 20px;
     margin: 20px;
