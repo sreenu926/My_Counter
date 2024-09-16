@@ -1,6 +1,6 @@
 #countLabel {
   text-align: center;
-  background-color: rgb(57, 243, 10);
+  background-color: rgb(243, 10, 173);
   display: block;
   font-size: 10em;
   font-family: Helvetica, sans-serif;
@@ -48,7 +48,7 @@
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.25s;
-    background-color: rgb(239, 54, 109);
+    background-color: rgb(79, 54, 239);
     display: inline;
     width: 175px;
     padding: 10px;
